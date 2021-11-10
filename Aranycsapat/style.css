@@ -103,4 +103,16 @@ body{
     color: black;
 }
 
+.sikerek{
+    max-width: 1250px;
+}
 
+#kep{
+    float: right;
+    max-width: 500px;
+}
+
+span{
+    font-weight: 900;
+    color: darkred;
+}
