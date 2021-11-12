@@ -2,7 +2,8 @@ h1{
     color: gold;
     text-align: center;
     font-size: 40pt;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    background-color: dimgrey;
 }
 
 
@@ -22,7 +23,7 @@ a{
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
-    background-color: bisque
+
 }
 
 .background div{
@@ -121,7 +122,7 @@ span{
 .kepkeret {
     width: 720px;
     text-align: center;
-    font-size: 85%;
+    font-size: 15pt;
     padding: 0px 5px 5px;
     margin-left: 10px;
     background-image: url('fatyol.png');
@@ -131,3 +132,4 @@ span{
     border: 2px solid black;
     font-style: italic;  
   }
+
