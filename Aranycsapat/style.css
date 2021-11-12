@@ -84,6 +84,7 @@ a{
 }
 
 .buttons{
+    
     margin-right: auto;
     margin-left: auto;
 }
@@ -116,3 +117,17 @@ span{
     font-weight: 900;
     color: darkred;
 }
+
+.kepkeret {
+    width: 720px;
+    text-align: center;
+    font-size: 85%;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    background-image: url('fatyol.png');
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px gray;
+    border: 2px solid black;
+    font-style: italic;  
+  }
