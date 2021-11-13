@@ -1,0 +1,28 @@
+.kepkeret {
+    width: 720px;
+    text-align: center;
+    font-size: 15pt;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    background-image: url('fatyol.png');
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px gray;
+    border: 2px solid black;
+    font-style: italic;
+    margin: auto auto;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 40pt;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+p{
+    text-align: justify; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 120%;
+}
