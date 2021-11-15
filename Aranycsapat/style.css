@@ -6,11 +6,11 @@ h1{
     background-color: dimgrey;
 }
 
-
 p{
     text-align: justify; 
     font-family: 'Times New Roman', Times, serif; 
     font-size: 24pt;
+
 }
 
 a{
@@ -125,7 +125,6 @@ span{
     font-size: 15pt;
     padding: 0px 5px 5px;
     margin-left: 10px;
-    background-image: url('fatyol.png');
     border-radius: 25px;
     overflow: hidden;
     box-shadow: 10px 10px 10px gray;

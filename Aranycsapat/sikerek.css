@@ -1,10 +1,5 @@
-body{
-    background-color: dimgrey;
-}
-
 .kepkeret {
-    width: 720px;
-    text-align: center;
+    width: 800px;
     font-size: 15pt;
     padding: 0px 5px 5px;
     margin-left: 10px;
@@ -12,8 +7,8 @@ body{
     overflow: hidden;
     box-shadow: 10px 10px 10px gray;
     border: 2px solid black;
-    font-style: italic;
-    margin: auto auto;
+    font-style: italic; 
+    margin-block-end: 10px; 
 }
 
 h1{
@@ -21,12 +16,32 @@ h1{
     text-align: center;
     font-size: 40pt;
     font-family:'Times New Roman', Times, serif;
+    background-color: dimgrey;
 }
-
 
 p{
     text-align: justify; 
     font-family: 'Times New Roman', Times, serif; 
-    font-size: 120%;
-    color: honeydew;
+    font-size: 20pt;
+
 }
+
+li{
+    font-size: 20pt;
+}
+
+.kepek{
+    float: right
+}
+
+.belsokepkeret {
+    width: 800px;
+    font-size: 15pt;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    font-style: italic; 
+    margin-block-end: 10px; 
+}
+
